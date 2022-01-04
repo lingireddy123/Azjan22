@@ -1,3 +1,5 @@
 #/bin/bash
+import os
+print("hello world")
 
-print
+print("time right now is")
